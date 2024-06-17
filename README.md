@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Codewars](https://github.r2v.ch/codewars?user=acetoshi&stroke=%23BB432C)
+
