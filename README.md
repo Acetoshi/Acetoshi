@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Codewars](https://github.r2v.ch/codewars?user=acetoshi&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=Acetoshi&stroke=%23BB432C)
 
