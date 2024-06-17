@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, i'm David
 
 <!--
 **Acetoshi/Acetoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
